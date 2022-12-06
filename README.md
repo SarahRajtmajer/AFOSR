@@ -7,8 +7,8 @@ This repository contains Penn State research supported by the Air Force Office o
 + Active Class Selection for Few-Shot Class-Incremental Learning, submitted for review
 
 ## Code
-+ 
-+ 
++ [Construal Level Theory for Agent-based Planning](https://github.com/chrismcclurg/CLT-Planning)
++ [Active Class Selection for Few-Shot Class-Incremental Learning](https://github.com/chrismcclurg/FSCIL-ACS)
 
 ## If you consider citing us
 ```
